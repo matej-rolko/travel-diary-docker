@@ -145,8 +145,7 @@ Custom error handling middleware is used to ensure that any exceptions are caugh
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-    ```bash
-    
+    ```
         You can adjust the repository link, environment variable names, or any other specific details as needed.
 
 Thank's for coming so far.
