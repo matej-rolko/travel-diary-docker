@@ -10,6 +10,7 @@ This is a Node.js-based Contact Manager application where users can register, au
 - Secure API access, allowing only authenticated users to interact with their own contacts
 - Validation of cross-user access to prevent unauthorized modifications to other users' contacts
 - Error handling and appropriate status codes for different scenarios
+- Docker support for easy setup and deployment
 
 ## Technology Stack
 
@@ -18,6 +19,19 @@ This is a Node.js-based Contact Manager application where users can register, au
 - MongoDB (with Mongoose)
 - JWT for authentication
 - bcrypt for password hashing
+- Docker & Docker Compose
+
+
+## Prerequisites
+
+Before running the project, make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/en/) (v14+)
+- [Docker](https://www.docker.com/)
+- [Docker Compose](https://docs.docker.com/compose/)
+
+
+## Getting Started
 
 ## Installation
 
